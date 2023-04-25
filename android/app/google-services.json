@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407507362120",
+    "project_id": "madcravings-45d48",
+    "storage_bucket": "madcravings-45d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407507362120:android:a64c8b63aa2f2ce66d137d",
+        "android_client_info": {
+          "package_name": "com.example.madcravings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407507362120-r786605offvi3m60dhuq4rg61ag6piqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD6cxKVpsq-8bhlUyyH57_uuhlSa2yJss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407507362120-r786605offvi3m60dhuq4rg61ag6piqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
